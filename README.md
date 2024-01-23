@@ -1,4 +1,5 @@
 # Simple Jwt Auth Backend
+This is a simple backend to teach basic JWT Auth react frontend signin
 ## Setup
 
 **Clone the repository to your local machine**
